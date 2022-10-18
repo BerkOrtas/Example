@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>4. hafta</title>
+    </head>
+    <body>
+        <img src="balikesir.png" alt="balikesir" title="balikesir" width="300" height="300">
+        <img src="resimler/gs.png" alt="gs" title="gs" width="200" height="200"> <!--burası alt klasör-->
+        <img src="../manzara.png" alt="Manzara" title="Deniz" width="400" height="200"> <!--burası üst klasör-->
+        <a href="https.//www.berk.com.tr">Otobiyografi</a> <!--anchor:çapa link ekleme dosya isimleri ingilizce harflerle-->
+        <a href="hakkimizda.html">Hakkımızda</a>
+        <a href="açiklama/hakkimda.html">Hakkımızda</a><!--alt klasör-->
+        <a href="../hakkimda.html">Hakkımızda</a><!--üst klasör-->
+        <a href="world.png">dünya</a> <!--anchor:çapa link ekleme dosya isimleri ingilizce harflerle-->
+        <a href="World.png">dünya</a>
+        <a href="resimler/dpu.png">Hakkımızda</a><!--alt klasör-->
+        <a href="../kutahya.png">Hakkımızda</a><!--üst klasör-->
+        <a href="index2.html">2.sitem</a>
+        <a href="index3.html">3.sitem</a>
+        <a target="_blank" href="htttps.//www.hayali.com.tr">hayali</a> <!--blank yan sekmede açma-->
+        <a target="_blank" href="https://www.dpu.edu.tr/">Dumlupınar üniversitesi</a>
+        <a href="https://www.manutd.com/">Manchester United</a>
+        <a href="https://www.arsenal.com/">Arsenal</a>
+        <a href="https://www.liverpoolfc.com/">Liverpool</a>
+        <a href="https://www.realmadrid.com/">Real Madrid</a>
+        <a href="https://www.fcbarcelona.com/">Barcelona</a>
+        <a href="https://www.chelseafc.com/">Chelsea</a>
+        <a href="https://www.leedsunited.com/">Leeds United</a>
+        <a href="https://www.tottenhamhotspur.com/">Tottenham</a>
+        <a href="https://wwww.whufc.com//">Westham United</a>
+        <a href="https://www.dpu.edu.tr/" target="_blank">
+        <img src="dpu.png" alt="DPÜ" title="DPÜ" width="200" height="200">
+        </a>
+        <a href="#baslik">başlığa gider</a> <!--site içinde id verilen bir yere gider-->
+        <a href="mailto:berk.ortas@hotmail.com"></a>
+        <h1 id="baslik">başlık</h1>
+
+
+        
+
+    </body>
+</html>
